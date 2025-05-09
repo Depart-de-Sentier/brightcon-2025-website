@@ -154,6 +154,6 @@
 }
 .affrow {
   display: flex;
-  alignt-items: flex-start;
+  align-items: flex-start;
 }
 </style>
