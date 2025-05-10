@@ -4,7 +4,7 @@
     <p>
       Brightcon is an annual conference where the community of the open source
       framework for LCA Brightway meets. It enables interactions between
-      Brightway developers, maintainers, contributors, users and adopters.,
+      Brightway developers, maintainers, contributors, users and adopters.
     </p>
     <h2>Previous editions of the conference</h2>
     <ul>

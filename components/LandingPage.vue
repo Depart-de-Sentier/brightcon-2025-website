@@ -16,6 +16,10 @@
         </div>
       </div>
     </div>
+    <div class="text-primary bg-light">
+      Interested in sponsoring? Take a look at the
+      <NuxtLink to="sponsoring" class="text-white"> sponsoring packages . </NuxtLink>
+    </div>
   </div>
 </template>
 
