@@ -5,15 +5,15 @@
     </h2>
     <div class="row">
       <div class="col">
-        <carousel :items-to-show="1" :autoplay="4000">
-          <slide v-for="slide in previmgs" :key="slide">
+        <Carousel :items-to-show="1" :autoplay="4000">
+          <Slide v-for="slide in previmgs" :key="slide">
             <NuxtImg :src="slide" />
-          </slide>
+          </Slide>
           <template #addons>
-            <navigation />
-            <pagination />
+            <Navigation />
+            <Pagination />
           </template>
-        </carousel>
+        </Carousel>
       </div>
     </div>
   </div>
