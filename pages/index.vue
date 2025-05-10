@@ -3,6 +3,8 @@
     <br />
     <LandingPage />
     <br />
+    <ThisYearsTopic />
+    <br />
     <!-- <OurPartners />
     <br />
     <Testimonials />
