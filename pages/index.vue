@@ -3,10 +3,11 @@
     <br />
     <LandingPage />
     <br />
-    <OurPartners />
+    <!-- <OurPartners />
     <br />
     <Testimonials />
     <br />
+    -->
     <PrevCar />
     <br />
   </div>
