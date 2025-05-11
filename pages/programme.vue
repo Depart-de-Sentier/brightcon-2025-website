@@ -1,39 +1,14 @@
 <script setup lang="ts">
-const { data: hackathon } = await useAsyncData("hackathon", () =>
-  queryCollection("content").path("/agenda/hackathon").first(),
-);
-
-const { data: classes } = await useAsyncData("classes", () =>
-  queryCollection("content").path("/agenda/classes").first(),
-);
-
-const { data: conference } = await useAsyncData("conference", () =>
-  queryCollection("content").path("/agenda/conference").first(),
+const { data: allagenda} = await useAsyncData("hackathon", () =>
+  queryCollection("agenda").all(),
 );
 </script>
 
 <template>
   <div class="container">
     <h1>Programme for Brightcon 2025</h1>
-
-    <div class="card">
-      <header><h2>Hackathon 🛠️ - October 13th - 14th</h2></header>
-      <p>We will gather to tackle different challenges, in a hackathon mode.</p>
-      <div>
-        <ContentRenderer v-if="hackathon" :value="hackathon" />
-      </div>
-    </div>
-
-    <div class="card">
-      <header><h2>Classes 🎓 - October 14th</h2></header>
-      <p>We will gather to share our knowledge on brightway, but not only.</p>
-      <ContentRenderer v-if="classes" :value="classes" />
-    </div>
-
-    <div class="card">
-      <header><h2>Conference 📢 - October 15th - 17th</h2></header>
-      <p>Our interactive gathering.</p>
-      <ContentRenderer v-if="conference" :value="conference" />
+    <div class="card" v-for="phase in allagenda" :key=phase.path>
+        <ContentRenderer :value="phase" />
     </div>
   </div>
 </template>

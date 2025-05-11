@@ -1,3 +1,7 @@
+## Conference 📢 - October 15th - 17th
+
+Our interactive gathering.
+
 ### October 16th, 2025
 
 | Time       | Activity                                                             |

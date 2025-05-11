@@ -1,3 +1,6 @@
+## Hackathon 🛠️ - October 13th - 14th
+We will gather to tackle different challenges, in a hackathon mode.
+
 ### October 13
 
 | Time | Activity |

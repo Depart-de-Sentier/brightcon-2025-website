@@ -1,3 +1,7 @@
+## Classes 🎓 - October 14th
+
+We will gather to share our knowledge on brightway, but not only.
+
 ### October 15th, 2025
 
 | Time       | Activity                                                             |
