@@ -1,4 +1,4 @@
-## Classes 🎓 - October 14th
+## Classes 🎓 - October 15th
 
 We will gather to share our knowledge on brightway, but not only.
 

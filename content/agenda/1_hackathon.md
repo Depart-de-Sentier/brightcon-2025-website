@@ -1,21 +1,21 @@
 ## Hackathon 🛠️ - October 13th - 14th
 We will gather to tackle different challenges, in a hackathon mode.
 
-### October 13
+### October 13th
 
 | Time | Activity |
 | --- | --- |
-| 9:30 - 9:50 | Introduction to the hackathon and the challenges |
-| 9:50 - 10:10 | Group formation |
+| 09:30 - 09:50 | Introduction to the hackathon and the challenges |
+| 09:50 - 10:10 | Group formation |
 | 10:10 - 12:00 | Fun |
 | 12:00 - 13:00 | Lunch break |
 | 13:00 - 18:00 | Fun |
 
-### October 14
+### October 14th
 
 | Time | Activity |
 | --- | --- |
-| 9:00 - 12:00 | Fun |
+| 09:00 - 12:00 | Fun |
 | 12:00 - 13:00 | Lunch break |
 | 13:00 - 18:00 | Fun |
 
