@@ -39,7 +39,7 @@
       </p>
       <div class="row col is-vertical-align is-horizontal-align">
         <a
-          href="https://events.d-d-s.ch/applications/create/brightcon-2024-call-for-contributions/"
+          href="https://events.d-d-s.ch/applications/create/brightcon-2025-call-for-contributions/"
           class="button primary icon"
         >
           submit contribution
